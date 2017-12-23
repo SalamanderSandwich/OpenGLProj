@@ -1,0 +1,2 @@
+if old color>new color
+	new color = (old color + new color)/2
